@@ -1,0 +1,3 @@
+[submodule "HDiffPatch"]
+	path = HDiffPatch
+	url = https://github.com/neon-nyan/HDiffPatch
